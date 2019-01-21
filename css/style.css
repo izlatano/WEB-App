@@ -169,7 +169,8 @@ article#main-col{
 	header nav li,
 	#newsletter h3,
 	#newsletter form,
-	#boxes .box{
+	#boxes .box,
+	.text_addr{
 		float: none;
 		text-align: center;
 		width: 100%;
